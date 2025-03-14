@@ -1,7 +1,5 @@
-var myVar = 10;
+const div = document.getElementById("github");
 
-for (let i = 0; i < 2; i++) {
-  console.log("цикл");
-}
-
-console.log(i);
+const logged = () => {
+  console.log(div.textContent);
+};
