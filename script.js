@@ -1,1 +1,2 @@
-console.log("Hello, world!");
+const a = 1;
+let и = "вторая переменная";
